@@ -17,3 +17,4 @@
 NaN
 INT_MAX
 Infinity
+31.4
